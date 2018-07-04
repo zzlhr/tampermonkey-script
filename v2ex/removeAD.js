@@ -5,7 +5,7 @@
 // @version      1.0.0
 // @author       lhr
 // @license      MIT
-// @homepageURL  https://github.com/zzlhr/tampermonkey-script/
+// @homepageURL  https://github.com/zzlhr/tampermonkey-script/blob/master/v2ex/
 // @version      1.0
 // @grant        none
 // @run-at       document-end
